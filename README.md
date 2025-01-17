@@ -12,9 +12,10 @@ I hold an **MSc in Economics** (2024) and a **BSc in Economics** (2023), both fr
 ---
 
 ## 📚 Research Interests
--  **Financial Markets**  
--  **Market Microstructure**  
+-  **Financial Markets**
 -  **Macroeconomics**
+-  **Macro-Finance**
+-  **Market Microstructure**  
 
 ---
 
